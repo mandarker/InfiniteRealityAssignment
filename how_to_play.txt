@@ -1,0 +1,4 @@
+To play:
+- Navigate to the "MainScene" scene located in the path "Assets/Scenes".
+- Use the left/right arrow keys or 'A'/'D' to move the basket left and right, as requested in the assignment.
+- When the time runs out, click on the "Yes" button on the restart panel to begin the game again.
